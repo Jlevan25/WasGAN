@@ -1,0 +1,9 @@
+.idea/
+dataset/
+__pycache__/
+logs/
+dict_saves/
+checkpoints/
+/datasets/
+saves/
+imgs/
